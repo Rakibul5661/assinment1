@@ -1,0 +1,141 @@
+* {
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+
+p {
+    color: #444343;
+}
+
+h3 {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+}
+
+h4 {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    margin-bottom: 16px;
+    margin-top: 24px;
+}
+
+h5 {
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+}
+
+header {
+    background-image: url(../images/banner/banner1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 300px 0;
+}
+
+.banner {
+    max-width: 1140px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: end;
+    text-align: right;
+
+}
+
+.banner-text {
+    width: 50%;
+}
+
+.banner h2 {
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+}
+
+.banner p {
+    font-size: 16px;
+    line-height: 26px;
+    margin-top: 24px;
+    margin-bottom: 32px;
+    color: #444343;
+}
+
+.primery-btn {
+    background-color: #F15B22;
+    padding: 20px 26px;
+    border: 0;
+    border-radius: 5px;
+    color: white;
+    font-weight: 600;
+}
+
+main {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+/* previous-year section  */
+.previous-year {
+    display: flex;
+    gap: 87px;
+
+}
+
+.previous-year div {
+    margin-top: 320px;
+    margin-bottom: 214px;
+    padding-right: 80px;
+}
+
+.previous-year div h3 {
+    margin-bottom: 24px;
+}
+
+.previous-year div p {
+    margin-bottom: 16px;
+}
+
+.previous-year div ul li {
+    list-style: none;
+}
+
+li i {
+    color: green;
+}
+
+/* servises */
+.my-plan h3 {
+    margin-top: ;
+    text-align: center;
+    margin-top: 177px;
+    margin-bottom: 50px;
+}
+
+.services {
+    display: flex;
+    justify-content: space-between;
+}
+
+.services div img {
+    width: 92.96px;
+    height: 92.96px;
+    margin: 0 auto;
+    display: block;
+}
+
+.call-now {
+    background-image: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%), url(/images/watch.png);
+    border-radius: 8px;
+    background-repeat: no-repeat;
+    height: 180PX;
+    margin: 130PX 0;
+    padding: 59px 64px;
+}
+.last-btn{
+    background-color: white;
+    color: #F15B22;
+}
