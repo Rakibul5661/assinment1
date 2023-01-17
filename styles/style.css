@@ -109,7 +109,6 @@ li i {
 
 /* servises */
 .my-plan h3 {
-    margin-top: ;
     text-align: center;
     margin-top: 177px;
     margin-bottom: 50px;
@@ -135,7 +134,61 @@ li i {
     margin: 130PX 0;
     padding: 59px 64px;
 }
-.last-btn{
+
+.call-now h3 {
+    color: white;
+    margin-bottom: 24px;
+}
+
+.last-btn {
     background-color: white;
     color: #F15B22;
+}
+
+/* footer  */
+footer {
+    background-color: #151414;
+}
+
+.footer-container {
+    display: flex;
+    gap: 331px;
+    padding: 130px 0;
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.future h2 {
+    color: white;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    margin-top: 16px;
+}
+
+.future p {
+    color: white;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 24px;
+}
+
+.future img {
+    margin-right: 18px;
+}
+
+.subscribe h3 {
+    color: white;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 29px;
+    margin-bottom: 31px;
+}
+input{
+    padding: 21px 100px 21px 21px;
+    border-radius: 7px;
+    background: #151414;
+    border: 1px solid white;
+    margin-bottom: 16px;
 }
