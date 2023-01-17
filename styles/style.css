@@ -30,7 +30,7 @@ h5 {
 }
 
 header {
-    background-image: url(images/banner/banner1.png);
+    background-image: url(../images/banner/banner1.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -127,7 +127,7 @@ li i {
 }
 
 .call-now {
-    background-image: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%), url(images/watch.png);
+    background-image: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%), url(../images/watch.png);
     border-radius: 8px;
     background-repeat: no-repeat;
     height: 180PX;
